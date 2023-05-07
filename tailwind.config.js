@@ -6,8 +6,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily:{
-        primary: 'Inter',
-        secondary: 'Karla',
+        primary: ['Inter', 'sans-serif'],
+        secondary: ['Karla', 'sans-serif'],
       },
       colors: {
         primary : '#fcf1b1',
