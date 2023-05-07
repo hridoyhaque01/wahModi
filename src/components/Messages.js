@@ -17,4 +17,3 @@ export default function Messages() {
     </div>
   )
 }
-// d-flex flex-col-reverse justify-content-end overflow-hidden
