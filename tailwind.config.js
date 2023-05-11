@@ -21,7 +21,8 @@ module.exports = {
       },
       backgroundImage: {
         'gradient-primary' : 'linear-gradient(270deg, #FCF1B1 0%, rgba(252, 241, 177, 0) 100%);'
-      }
+      },
+
     },
   },
   plugins: [],
